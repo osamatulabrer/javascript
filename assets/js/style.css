@@ -1,0 +1,17 @@
+#one{
+    width: 400px;
+    height: 400px;
+    background-color: gray;
+}
+#two{
+    width: 300px;
+    height: 300px;
+    margin: 100px auto;
+}
+.blue{
+    background-color: purple;
+}
+.green{
+    background-color:
+        green
+}
